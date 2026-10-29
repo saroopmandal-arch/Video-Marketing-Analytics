@@ -1,0 +1,5 @@
+Strategy,Total_Views,Longform_Views,Shorts_Views,Longform_AdSense_INR,Shorts_AdSense_INR,Total_Annual_AdSense_INR,Revenue_Decay_Pct
+Scenario A: 100% Long-Form Focus,100M,100M,0M,"₹23,000,000",₹0,"₹23,000,000",0.0%
+Scenario B: Balanced (40% Long / 60% Shorts),100M,40M,60M,"₹9,200,000","₹720,000","₹9,920,000",56.9%
+Scenario C: Shorts Pivot (10% Long / 90% Shorts),100M,10M,90M,"₹2,300,000","₹1,080,000","₹3,380,000",85.3%
+Scenario D: 100% Shorts Focus (Viral Trap),100M,0M,100M,₹0,"₹1,200,000","₹1,200,000",94.8%

@@ -1,0 +1,7 @@
+format_key,format_name,screen_type,effective_cpm_inr,completion_rate_pct,ctr_pct,vtr_pct,conversion_rate_pct,cpa_efficiency_index,primary_objective
+bumper_6s,6-Second Bumper Ads,Mobile/Desktop,22.0,94.2,0.10,94.2,0.22,1.25,Mass Reach & Frequency
+non_skippable_15s,15-Second Non-Skippable In-Stream,Mobile/Desktop,60.0,92.5,0.30,92.5,0.55,1.40,Brand Consideration & Recall
+skippable_trueview,TrueView In-Stream (Skippable),Mobile/Desktop,40.0,32.0,0.65,34.0,1.10,1.85,Qualified Consideration & Intent
+ctv_non_skippable,Connected TV Non-Skippable (15s/30s),Living Room CTV,120.0,96.8,0.18,96.8,0.80,1.90,Premium Co-Viewing & Impact
+shorts_in_feed,YouTube Shorts In-Feed Video Ads,Mobile Vertical,18.0,22.4,1.20,28.5,0.90,1.15,High-Velocity Mobile Discovery
+creator_integration,Whitelisted Creator Brand Integration,Integrated,80.0,78.0,2.20,82.0,2.40,2.45,High-Trust Advocacy & Direct Conversion

@@ -1,0 +1,15 @@
+category_name,category_id,cpm_inr_min,cpm_inr_max,cpm_inr_median,fill_rate_pct,ctv_cpm_multiplier,desktop_cpm_multiplier,shorts_rpm_inr_median,longform_rpm_inr_median,top_advertiser_verticals,brand_safety_risk_index
+Finance & BFSI,27_fin,80,150,120.0,88.5,3.4,1.45,12.0,230.0,Banks/FinTech/Brokers (HDFC Groww Zerodha AngelOne),3.2
+Science & Technology,28,50,120,82.0,82.0,3.1,1.35,10.0,130.0,Consumer Electronics/SaaS (Samsung Apple Intel HP),2.1
+Education & Upskilling,27,40,100,65.0,76.5,2.9,1.30,8.0,100.0,EdTech/Universities (Scaler UpGrad PhysicsWallah),1.8
+Autos & Vehicles,2,40,90,60.0,79.0,3.2,1.35,7.0,75.0,Automotive/EVs (Maruti TataMotors Hyundai OlaElectric),2.0
+Howto & Style,26,30,70,48.0,81.0,2.8,1.25,6.0,55.0,Beauty/Personal Care/Fashion (Mamaearth Nykaa L'Oreal),2.4
+Travel & Events,19,25,60,40.0,72.0,3.0,1.30,5.5,50.0,OTA/Airlines/Hotels (MakeMyTrip Booking IndiGo AirIndia),1.5
+E-Commerce & Retail,22_ecom,30,70,48.0,84.0,2.9,1.25,6.0,58.0,Marketplaces/D2C (Amazon Flipkart Myntra Ajio),2.5
+People & Blogs,22,20,50,32.0,68.0,2.5,1.20,7.0,40.0,Mass FMCG/Telecom (Airtel Jio Pepsi Cadbury),4.5
+Entertainment,24,15,40,26.0,65.0,2.4,1.15,5.0,30.0,OTT/Entertainment/FMCG (Netflix Hotstar Parle Britannia),4.8
+Film & Animation,1,18,45,30.0,67.0,2.6,1.20,5.5,35.0,Cinema/Streaming/Media (PVR Disney PrimeVideo Zee),3.1
+Music,10,15,35,22.0,63.0,2.3,1.10,5.0,22.0,Audio Streaming/Smartphones (Spotify YouTubeMusic Vivo),2.2
+Gaming,20,15,35,22.0,54.0,2.2,1.20,5.0,20.0,Gaming Gear/Snacks (Razer MountainDew Doritos BGMI),5.6
+News & Politics,25,15,30,20.0,59.0,2.5,1.15,5.0,18.0,Government/Local Services/Aggregators,7.2
+Sports,17,30,70,48.0,74.0,3.3,1.30,6.0,52.0,Fantasy Sports/Athletic Wear (Dream11 Nike Puma Decathlon),3.8
